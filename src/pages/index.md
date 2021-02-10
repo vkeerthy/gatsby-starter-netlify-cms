@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Ecommerce Lending for Consumer Goods Brands
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Ecommerce Lending for Consumer Goods Brands
+subheading: We provide working capital, business insights and an unrivaled network to growing consumer brands.
 mainpitch:
-  title: Why Kaldi
+  title: Our Services
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We specialize in providing revolving lines of credit supported by inventory and receivables as well as purchase order financing.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
